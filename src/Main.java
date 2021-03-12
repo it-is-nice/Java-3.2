@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        int balance = -2000;
-        int refill = 2000;
+        int balance = 10000;
+        int refill = 1;
         int bonus = refill/100;
         if (refill < 1000)
         {
